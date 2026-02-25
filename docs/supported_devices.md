@@ -41,6 +41,7 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
+| 🟩 | ✔️ | 🇧 | 🔌 | 🛜 | **TL** | `_TZ3000_q8r0bbvy` <br> `TS0001` | [LVGESS WHD02 With Metering](https://www.zigbee2mqtt.io/devices/TS0001.html) |   |   | Supported | 
 | 🟩 | ✔️ | 🇧 | 🔌 | 🛜 | **TL** | `_TZ3000_imaccztn` <br> `TS0004` | [MHCOZY TYWB 4ch-RF <br> ZG-005(-RF) 🅰](https://www.zigbee2mqtt.io/devices/TYWB_4ch-RF.html) | [`AlEx`](https://www.aliexpress.com/item/1005005457296054.html) | [`#130`](https://github.com/romasku/tuya-zigbee-switch/issues/130) | Supported | 
 | 🟩 | ✔️ | 🇧 | 🔌 | 🛜 | **TL** | `_TZ3000_u3oupgdy` <br> `TS0004` | [MHCOZY TYWB 4ch-RF <br> ZG-005(-RF) 🅱](https://www.zigbee2mqtt.io/devices/TYWB_4ch-RF.html) |   | [`#245`](https://github.com/romasku/tuya-zigbee-switch/issues/245) | Supported | 
 | 🟩 | ✔️ | 🇧 | 🔌 | 🛜 | **TL** | `_TZ3000_g8n1n7lg` <br> `TS0001` | [Scimagic ZG-001 1ch-RF](https://www.zigbee2mqtt.io/devices/ZG-001.html) | [`AlEx`](https://aliexpress.com/item/1005004657817159.html) | [`#330`](https://github.com/romasku/tuya-zigbee-switch/issues/330) | Supported | 

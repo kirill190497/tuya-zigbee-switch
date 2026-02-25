@@ -161,6 +161,7 @@ class CustomWindowCoveringCluster(CustomCluster, WindowCovering):
 ``````````````````````````````````````````````````````````````````'''
 
 CONFIGS = [
+    "q8r0bbvy;TS0001-PWR;BB1u;LD2i;SC4u;RB5;M;",
     "imaccztn;TS0004-MC;LC3i;SD7u;RD4;SC0u;RA0;SB5u;RD2;SB7u;RC2;M;",
     "u3oupgdy;TS0004-MC2;LC3i;SD7u;RD4;SC0u;RA0;SB5u;RD2;SB7u;RC2;M;",
     "g8n1n7lg;Tuya-ZG-001;LC3i;SD7u;RD4;M;",
