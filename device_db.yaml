@@ -36,7 +36,7 @@ BOARD__WH_D02_BL0937:
   firmware_image_type: 47000
   build: yes
   status: fully_supported
-  info: Supported
+  info: Supported, monitoring is not working
   threads: 
   store: 
 
