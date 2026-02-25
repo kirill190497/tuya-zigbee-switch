@@ -12,6 +12,33 @@
 # - Fill empty values with null
 # - Keep KEYs in (mostly) alphabetical order
 # - Keep attributes in the same order
+BOARD__WH_D02_BL0937:
+  human_name: LVGESS WHD02 With Metering
+  category: board
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS0001
+  stock_manufacturer_name: _TZ3000_q8r0bbvy
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0001
+  override_z2m_device: TS0001
+  tuya_module: ZT2S
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: q8r0bbvy;TS0001-PWR;BB1u;LD2i;SC4u;RB5;M;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 47000
+  build: yes
+  status: fully_supported
+  info: Supported, monitoring is not working
+  threads: 
+  store: https://aliexpress.ru/item/1005009232955374.html?spm=a2g2w.orderdetail.0.0.4fe44aa6n6kc1N&sku_id=12000048412280531
 
 BOARD__MHCOZY_TS0004:
   human_name: MHCOZY TYWB 4ch-RF <br> ZG-005(-RF) 🅰
